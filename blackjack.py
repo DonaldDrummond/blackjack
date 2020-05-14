@@ -8,7 +8,7 @@ todos:
 - implement exit
 - possible refactoring- make a superclass to handle duplicated code from house/player class
 - handles any win with 21 as a blackjack paying 1.5, fix so only initial draw
-- game will break if cards run out of deck, fix this
+- game will break if deck run out of cards, fix this
 """
 # import sys
 import random
